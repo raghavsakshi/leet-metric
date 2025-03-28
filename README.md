@@ -2,7 +2,7 @@
 Leetmetric is built using HTML,CSS and JAVA SCRIPT.
 
 
-Project Description:
+  Project Description:
                     LeetMetric aims to be more than just a tool; it's a companion on your LeetCode journey. It empowers you to:
 * Visualize your progress: See your growth over time, and celebrate your achievements.
 * Identify areas for improvement: Pinpoint weaknesses and focus your efforts on targeted practice.
